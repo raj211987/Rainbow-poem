@@ -1,2 +1,2 @@
-# Rainbow-poem
-writing a poem
+# Rainbow-poem song
+writing a poem about a rainbow
